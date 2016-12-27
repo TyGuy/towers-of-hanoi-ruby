@@ -10,4 +10,4 @@ Just clone this repo
 ```sh
 ruby hanoi.rb
 ```
-1. To move a ring, use the j,k, and l keys. These correspond to left, middle, and right (respectively). For example, "lk" (followed by enter) will move the top ring from the peg on the right to the peg in the middle.
+2. To move a ring, use the j,k, and l keys. These correspond to left, middle, and right (respectively). For example, "lk" (followed by enter) will move the top ring from the peg on the right to the peg in the middle.
